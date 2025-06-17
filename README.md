@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Luiz Gustavo Morais Vasconcelos!
 
-![Banner]([![image](https://github.com/user-attachments/assets/decdeda0-cf55-4fef-92f0-7e1347877868)
+([![image](https://github.com/user-attachments/assets/decdeda0-cf55-4fef-92f0-7e1347877868)
 
 ## 💻 Sobre mim
 
