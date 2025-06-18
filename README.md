@@ -29,8 +29,8 @@ O ProdGraph é meu projeto favorito, voltado para a gestão de produção. Nele 
 
 ## 📈 GitHub Stats
 
-![LGMVasconcelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGMVasconcelos&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGMVasconcelos&layout=compact&theme=dracula)
+![LGMVasconcelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGMVasconcelos&show_icons=true&theme=monokaiprolight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGMVasconcelos&layout=compact&theme=monokaiprolight)
 
 ---
 
