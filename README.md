@@ -13,7 +13,7 @@ Desenvolvedor apaixonado por tecnologia, com foco em C#, PHP, HTML, CSS e JavaSc
 ## 🚀 Projeto em destaque
 
 ### [ProdGraph](https://github.com/DjefferBP/producaoCRUD)
-O ProdGraph é meu projeto favorito, voltado para a gestão de produção. Nele aplico tudo que sei de front-end, UX e responsividade, além de boas práticas de desenvolvimento em C# e PHP.
+O ProdGraph é meu projeto favorito, voltado para a gestão de produção. Nele aplico tudo que sei de front-end, UX e responsividade, além de boas práticas de desenvolvimento em PHP.
 
 ## 🛠️ Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
