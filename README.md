@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luiz Gustavo Morais Vasconcelos!
+# 👋 Olá, me chamo Luiz Gustavo Morais Vasconcelos!
 
 ![image](https://github.com/user-attachments/assets/decdeda0-cf55-4fef-92f0-7e1347877868)
 
