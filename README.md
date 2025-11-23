@@ -14,18 +14,22 @@ Todos os sistemas que desenvolvi até agora utilizam JSON para salvamento e carr
 
 ## 🚀 Projeto em destaque
 
-### [ProdGraph](https://github.com/DjefferBP/producaoCRUD)
-O ProdGraph é meu projeto favorito, voltado para a gestão de produção. Nele aplico tudo que sei de front-end, UX e responsividade, além de boas práticas de desenvolvimento em PHP, com tratamento de dados em json.
+### [SIS - Sistema de Inclusão Social](https://github.com/DjefferBP/sis_sistema_de_inclusao_social)  
+
+
+O Sistema de Inclusão Social é meu projeto favorito, uma rede social de postagens que visa ser um espaço onde minorias e pessoas em situações vulneráveis encontrem um espaço onde possam se reunir e achar vagas de emprego e cursos de diversas áreas. Nele aplico tudo que sei de front-end, UX e responsividade, além de ser meu primeiro projeto feito em React com TypeScript, com o uso de APIs.
 
 ## 🛠️ Skills
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-25D366?style=flat-square)
-![Responsividade](https://img.shields.io/badge/Responsividade-ff69b4?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-25D366?style=for-the-badge)
+![Responsividade](https://img.shields.io/badge/Responsividade-ff69b4?style=for-the-badge)
 
 ## 🌐 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiz-gustavo-morais-vasconcelos-06770330b)
