@@ -32,7 +32,7 @@ O Sistema de Inclusão Social é meu projeto favorito, uma rede social de postag
 ![Responsividade](https://img.shields.io/badge/Responsividade-ff69b4?style=for-the-badge)
 
 ## 🌐 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiz-gustavo-morais-vasconcelos-06770330b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiz-gustavo-morais-vasconcelos-06770330b)
 
 ## 📈 GitHub Stats
 
