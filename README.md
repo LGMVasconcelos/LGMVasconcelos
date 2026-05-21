@@ -4,7 +4,7 @@
 
 ## 💻 Sobre mim
 
-Técnico de desenvolvimento de sistemas formado, com 17 anos. Desenvolvedor apaixonado por tecnologia, com foco em C#, PHP, HTML, CSS e JavaScript. Meu grande diferencial está no front-end, com forte atuação na criação de interfaces modernas e usabilidade. Sempre buscando aprender novas tecnologias e aprimorar minhas skills!
+Técnico de desenvolvimento de sistemas formado, com 17 anos. Desenvolvedor apaixonado por tecnologia, com foco em C#, PHP, HTML, CSS e JavaScript. Meu grande diferencial está no front-end, com forte atuação na criação de interfaces modernas e usabilidade. Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades!
 
 - 🎨 Experiente em design de interfaces e experiência do usuário
 - 🔎 Sempre atento às tendências de front-end moderno
