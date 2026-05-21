@@ -29,6 +29,8 @@ O Sistema de Inclusão Social é meu projeto favorito, uma rede social de postag
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-25D366?style=for-the-badge)
 ![Responsividade](https://img.shields.io/badge/Responsividade-ff69b4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 🌐 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiz-gustavo-morais-vasconcelos-06770330b)
