@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Luiz Gustavo Morais Vasconcelos!
 
-![image](https<img width="1584" height="396" alt="Black Minimalist Corporate Professional Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/d4afdb08-e785-4168-98ca-0c76e868e754" />
-://github.com/user-attachments/assets/decdeda0-cf55-4fef-92f0-7e1347877868)
+<img width="1584" height="396" alt="Black Minimalist Corporate Professional Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/d4afdb08-e785-4168-98ca-0c76e868e754" />
+
 
 ## 💻 Sobre mim
 
