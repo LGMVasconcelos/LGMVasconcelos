@@ -2,22 +2,19 @@
 
 <img width="1584" height="396" alt="Black Minimalist Corporate Professional Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/d4afdb08-e785-4168-98ca-0c76e868e754" />
 
-
 ## 💻 Sobre mim
 
-Técnico de desenvolvimento de sistemas formado, com 17 anos. Desenvolvedor apaixonado por tecnologia, com foco em C#, PHP, HTML, CSS e JavaScript. Meu grande diferencial está no front-end, com forte ênfase em UI, UX e responsividade, buscando sempre propor soluções inovadoras.
+Técnico de desenvolvimento de sistemas formado, com 17 anos. Desenvolvedor apaixonado por tecnologia, com foco em C#, PHP, HTML, CSS e JavaScript. Meu grande diferencial está no front-end, com forte atuação na criação de interfaces modernas e usabilidade. Sempre buscando aprender novas tecnologias e aprimorar minhas skills!
 
 - 🎨 Experiente em design de interfaces e experiência do usuário
 - 🔎 Sempre atento às tendências de front-end moderno
 - 📚 Amante de academia, estudos e programação
 
-
 ## 🚀 Projeto em destaque
 
 ### [SIS - Sistema de Inclusão Social](https://github.com/DjefferBP/sis_sistema_de_inclusao_social)  
 
-
-O Sistema de Inclusão Social é meu projeto favorito, uma rede social de postagens que visa ser um espaço onde minorias e pessoas em situações vulneráveis encontrem um espaço onde possam se reunir e achar vagas de emprego e cursos de diversas áreas. Nele aplico tudo que sei de front-end, UX e responsividade, além de ser meu primeiro projeto feito em React com TypeScript, com o uso de APIs.
+O Sistema de Inclusão Social é meu projeto favorito, uma rede social de postagens que visa ser um espaço onde minorias e pessoas em situações vulneráveis encontrem um espaço onde possam se reunir e compartilhar experiências.
 
 ## 🛠️ Skills
 ![C#](https://img.shields.io/badge/C%23-533867?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -28,6 +25,8 @@ O Sistema de Inclusão Social é meu projeto favorito, uma rede social de postag
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-25D366?style=for-the-badge)
 ![Responsividade](https://img.shields.io/badge/Responsividade-ff69b4?style=for-the-badge)
 
