@@ -15,7 +15,7 @@ Técnico de desenvolvimento de sistemas formado e calouro de Engenharia de Softw
 
 ### [Ajudaí](https://github.com/ajudai-developments/ajudai)  
 
-O Ajudaí é meu projeto favorito. Utiliza do supabase para o banco de dados e possui back-end robusto e front-end limpo e intuitivo em flutter. É o meu projeto mais extenso, feito como TCC para o SENAI, e o que mais tenho orgulho de ter participado.
+O Ajudaí é meu projeto favorito. Nascido de um hackathon e depois reutilizado e desenvolvido como TCC, esse aplicativo em flutter utiliza do supabase para o banco de dados e possui back-end robusto e front-end limpo e intuitivo. É o meu projeto mais extenso, apresentado como TCC para o SENAI, e o que mais tenho orgulho de ter participado.
 
 ## 🛠️ Skills
 ![C#](https://img.shields.io/badge/C%23-533867?style=for-the-badge&logo=c-sharp&logoColor=white)
